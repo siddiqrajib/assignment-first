@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background:url(../images/banner.png) ;
+    color: #fff;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 50px 140px 0px 140px;
+}
+.happy{
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+}
+.greetings{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+line-height: 95px; 
+}
+.color-over{
+    background:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    opacity: .9;
+    
+}
+.container2{
+    text-align: center;
+}
+.discount{
+    margin-top: 50px;
+}
+.dis1{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+}
+.dis2{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+.dis3{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+}
+.contain2{
+   background-position: center;
+}
