@@ -68,3 +68,145 @@ font-weight: 700;
 .contain2{
    background-position: center;
 }
+.main-ta2{
+    font-size: 64px;
+    background-image:url(../images/Vectorrr.png) ;
+    color: beige;
+    background-size: cover; 
+    margin-top: 150px;
+    justify-content: center;
+    height: 600px;
+    width: 1300px;
+    display: block;
+    margin-left: 60px;
+    border:0;
+    border-radius: 18px solid;
+     
+}
+.year{
+    justify-content: center;
+    margin-left: 800px;
+    align-items: center;
+    display: flex;
+width: 319.83px;
+height: 464.662px;
+
+
+}
+.crop{
+    border-radius: 463px;
+    border: 15px solid #F00;
+    padding: 50px;
+}
+
+.column{
+    float: left;
+    border:20px solid rgb(168, 136, 9);
+    display: inline;
+}
+.main-ta{
+    display: flex;
+    justify-content: center;
+    margin-top: 140px;
+}
+.main-ta2{
+    padding-top: 16px;
+    text-align: left;
+}
+.main-ta3{
+    text-align: left;
+    margin-left: 150px;
+}
+.p-descrip{
+    font-size: 18px;
+    padding-top: 20px;
+    margin-bottom: -80px;
+    color: rgba(255, 255, 255, 0.80);
+}
+.join{
+    font-size: 25px;
+    padding-top: 0px;
+}
+.p-3{
+    text-align: center;
+    font-family: Inter;
+    font-size: 29px;
+    font-weight: 600;
+    background-color:  rgb(245, 239, 245);
+    margin: 40px 60px 40px 60px;
+    padding-top: 30px;
+
+}
+.color2{
+    color:red;
+   
+}
+.Button{
+    border-radius: 5px;
+    background:#F00 ;
+    border: 0;
+    font-size: 20px;
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+}
+.time{
+    display: flex;
+    background-color: rgb(249, 248, 247);
+    margin:40px 60px 40px 60px; 
+    display: flex;
+    gap: 30px; 
+    align-items: center; 
+}
+.tag1{
+    color: #F00;
+text-align: left;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+.tag2{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+text-transform: capitalize;
+}
+.tag3{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+.offer1{
+    margin-top: 0px;
+}
+.function{
+    text-align: center;
+}
+.tag5{
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.tag6{
+    color: #F00;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+}
+.tag7{
+    color:#070211; ;
+}
+.tag9{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
