@@ -84,12 +84,11 @@ font-weight: 700;
      
 }
 .year{
-    justify-content: center;
     margin-left: 800px;
-    align-items: center;
     display: flex;
-width: 319.83px;
-height: 464.662px;
+    width: 319.83px;
+    height: 464.662px;
+   
 
 
 }
@@ -133,7 +132,7 @@ height: 464.662px;
     font-size: 29px;
     font-weight: 600;
     background-color:  rgb(245, 239, 245);
-    margin: 40px 60px 40px 60px;
+    margin: 140px 10px 40px 60px;
     padding-top: 30px;
 
 }
@@ -265,4 +264,81 @@ font-weight: 900;
 }
 .parts2{
     padding-top: 30px;
+}
+.Subscribe{
+    text-align: center;
+}
+.subcribe-main{
+    margin-top: 80px;
+    background-color: antiquewhite;
+}
+.tag20{
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+}
+.tag21{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+padding-left: 160px;
+padding-right: 160px;
+}
+.search{
+    margin-left: 580px;
+}
+.box{
+    position: absolute;
+    width: 500px;
+}
+input{
+    position: relative;
+    display: inline-block;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+input[type="text"]
+{
+    background: #FFF;
+    width: 340px;
+    height: 50px;
+    border: none;
+    outline: none;
+    border-radius: 25px 0 0 25px;
+}
+input[type="submit"]
+{
+    position: relative;
+    background: #F00;
+    width: 150px;
+    height: 50px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 0 25px  25px 0;
+    margin-left: -5px;
+}
+.logo{
+    display: flex;
+    list-style: none;
+    margin: 50px 380px;
+    justify-content: space-between;
+}
+.address{
+    display: flex;
+    justify-content: space-between;
+    color: aliceblue;
+    margin: 60px;
+    margin-bottom: 20px;
+}
+.footer{
+    background: #070211;
+}
+.icon{
+    font-size: 19px;
+    padding-top: 10px;
 }
