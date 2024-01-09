@@ -223,8 +223,46 @@ font-weight: 900;
 }
 .sale{
     margin: 40px 60px 40px 60px;
-    display: block; 
+    display: block;
+    justify-content:space-between;
 }
 .tag12{
     padding-top: 100px;
+    margin-bottom:-150px ;
+}
+.gift{
+    text-align: left;
+    margin-left: 60px;
+}
+.tag15{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.tag16{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;   
+}
+.tag17{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;   
+}
+.parts{
+    margin-top: 25px;
+    margin-left: 60px;
+}
+.parts1,.parts2{
+  justify-content: space-between;
+  align-items: end;
+  border: 0;
+  display: flex;
+}
+.parts2{
+    padding-top: 30px;
 }
